@@ -1,4 +1,4 @@
-<h2><u> Program to print the elements of an array.</u></h2>
+<h2>Program to print the elements of an array.</h2>
 
 
 <?php

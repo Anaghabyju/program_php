@@ -1,6 +1,6 @@
 <h2><u>Program to print the elements of an array in reverse order.</u></h2>
 
 <?php
-$a=array("red","green", "blue",);
+$a=array("red","green", "blue","yellow");
 print_r(array_reverse($a));
 ?>
